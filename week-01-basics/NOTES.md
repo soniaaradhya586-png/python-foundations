@@ -22,5 +22,18 @@
 # printing sigits in a number with comma as a thousand separator
    print(f"{z:,}")
 
+  ## Day 2
+- conditionals are abilities to ask questions and answer those question  in order to decide which code do you want to execute
+some of these symbols are- > ,>= , < ,<= , == for comparison ,!= this represents not equalto 
+- you can also ask questions in comparison to using if
+- elif is another function like if but his functions only runs if the previous if or elif function's answer is false 
+- else is another function related to if and elif both of these function's answer to the problem is false then else is used
+- or is used when outcome of two or more questions in function is same
+- python also has and which is used to combine one or more question
+- match allows you to complete ideas more compactly
+
+
+
+
 
 

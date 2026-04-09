@@ -2,3 +2,5 @@
 - Learned simple things about Functions, Variables, ReturnValues, Side Effects, and String Methods.
 - Practiced to create functions, variables, and string methods, and use it 
 - Learned how to use V.S Code, and GitHub 
+
+## Day 2

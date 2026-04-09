@@ -5,7 +5,7 @@
 #you can also chain these
 #name = name.strip().title().capitalize()
 
-#Capatalixe user's name
+#Capatalise user's name
 #name = name.capitalize()    
 #name = name.title()
 
