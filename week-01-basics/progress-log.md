@@ -4,3 +4,5 @@
 - Learned how to use V.S Code, and GitHub 
 
 ## Day 2
+- Learned about conditionals, boolian expressions, and different types of functions (if/ elif/ else)
+- created simple grade generator
