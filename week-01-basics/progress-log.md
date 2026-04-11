@@ -6,3 +6,6 @@
 ## Day 2
 - Learned about conditionals, boolian expressions, and different types of functions (if/ elif/ else)
 - created simple grade generator
+
+## Day 3
+- 

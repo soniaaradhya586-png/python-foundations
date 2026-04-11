@@ -32,8 +32,12 @@ some of these symbols are- > ,>= , < ,<= , == for comparison ,!= this represents
 - python also has and which is used to combine one or more question
 - match allows you to complete ideas more compactly
 
-
-
+## Day 3
+- Loops in python and in other languages is an ability to to do things again and again, a cycle of sorts
+- while:- this is one way to express loop function
+- for loop :- it allows you to iterate over a list of items
+- lists - it is another type of data, it's a way for containing multipal types of values
+- if you need a variable just because the programming feature require it instead of giving it a name you ca just use underscore "_"
 
 
 
