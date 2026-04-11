@@ -8,15 +8,25 @@
 
 #houses = ["Gryffindor", "Gryffindor", "Griffindor", "Slytherin"]
 
-students = {
-    "Harry": "Gryffindor",
-    "Ron": "Gryffindor",
-    "Hermione": "Gryffindor",
-    "Draco": "Slytherin",
-    "Neville": "Gryffindor"
-}
+#students = {
+#    "Harry": "Gryffindor",
+#    "Hermione": "Gryffindor",
+#    "Ron": "Gryffindor",
+#   "Neville": "Gryffindor"
+#}
 
-#print(students["Harry"]) 
+#print(students["Harry"])
+ 
+ 
+#for student in students:
+#    print(student, students[student])
+
+students =[
+    {"name": "Harry", "house": "Gryffindor", "patronus": "stag"},
+    {"name": "Hermione", "house": "Gryffindor", "patronus": "otter"},
+    {"name": "Ron", "house": "Gryffindor", "patronus": "Jack Russell terrier"},
+    {"name": "Draco", "house": "Slytherin", "patronus": None},
+]
 
 for student in students:
-    print(student, students[student])
+    print(f"{{name}} = {student['name']}, {{house}} = {student['house']}, {{patronus}} = {student['patronus']}", sep=", ")
