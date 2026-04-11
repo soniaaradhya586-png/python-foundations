@@ -8,4 +8,8 @@
 - created simple grade generator
 
 ## Day 3
+- Learned about loops & lists
+- experimented with loops and variables
+
+# Day-4 
 - 

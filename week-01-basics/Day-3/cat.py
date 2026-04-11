@@ -23,17 +23,17 @@ def main():
 
 def get_number():
     while True:
-        n = int(input("Waht's n?"))
-        if n> 0:
+        n = int(input("What's n? "))
+        if n > 0:
             break
     return n
 
-def meow(number):
-    for _ in range(number):
+def meow(n):
+    for _ in range(n):
         print("Meow")
 
 
-meow()
+main()
 
                 
                 
