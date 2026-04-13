@@ -39,5 +39,14 @@ some of these symbols are- > ,>= , < ,<= , == for comparison ,!= this represents
 - lists - it is another type of data, it's a way for containing multipal types of values
 - if you need a variable just because the programming feature require it instead of giving it a name you ca just use underscore "_"
 
+## Day-4
+- in python we use square brackets to get a specific item from a variable. Example= students [3] for the 4th value 
+- note:- in programming languages like python & JavaScript we count from zero
+- len this function tells you the length of a list
+- dict is a data structure that allows you to associate one value to another, can also be seen as a dictoinary. we can use {} these to create dictionaries
+- there is a special word in python (None) which represents the absance of a value
+
+
+
 
 

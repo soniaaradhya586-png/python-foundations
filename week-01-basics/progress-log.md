@@ -12,4 +12,8 @@
 - experimented with loops and variables
 
 # Day-4 
-- 
+- Learned about len, dict ,and None
+-solved a simple problem in mario.py
+
+
+## Week one complete ##
