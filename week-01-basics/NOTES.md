@@ -1,4 +1,4 @@
-## Day 1
+## Introduction to python
 - In the terminal, you can execute code hello.py to start coding.
 -  Type python hello.py and press the enter key on your keyboard to coompile and run your code in your terminal
 - Functions: functions are verbs or actions that the computer or computer language will already know how to perform.
@@ -22,7 +22,7 @@
 # printing sigits in a number with comma as a thousand separator
    print(f"{z:,}")
 
-  ## Day 2
+  ## Functons, Variables
 - conditionals are abilities to ask questions and answer those question  in order to decide which code do you want to execute
 some of these symbols are- > ,>= , < ,<= , == for comparison ,!= this represents not equalto 
 - you can also ask questions in comparison to using if
@@ -32,21 +32,21 @@ some of these symbols are- > ,>= , < ,<= , == for comparison ,!= this represents
 - python also has and which is used to combine one or more question
 - match allows you to complete ideas more compactly
 
-## Day 3
+## Conditionals
 - Loops in python and in other languages is an ability to to do things again and again, a cycle of sorts
 - while:- this is one way to express loop function
 - for loop :- it allows you to iterate over a list of items
 - lists - it is another type of data, it's a way for containing multipal types of values
 - if you need a variable just because the programming feature require it instead of giving it a name you ca just use underscore "_"
 
-## Day-4
+## loops
 - in python we use square brackets to get a specific item from a variable. Example= students [3] for the 4th value 
 - note:- in programming languages like python & JavaScript we count from zero
 - len this function tells you the length of a list
 - dict is a data structure that allows you to associate one value to another, can also be seen as a dictoinary. we can use {} these to create dictionaries
 - there is a special word in python (None) which represents the absance of a value
 
-
+-----------------End of Week-01-Basic----------------------------
 
 
 

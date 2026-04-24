@@ -6,5 +6,5 @@ def main():
 def hello(to="world"):
     return f"hello, {to}"
 
-if __naem__ =="__main__":
+if __name__ =="__main__":
     main()

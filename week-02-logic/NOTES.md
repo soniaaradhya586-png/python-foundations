@@ -1,4 +1,4 @@
-## Day-1
+## Libraries
 - libraries are code that other people have written that you canuse in your file
 - modules- in python is just a library which has one or more features built inside of it. some of these modules with which python comes in are:
                                            > random
@@ -18,5 +18,8 @@ example- for arg in sys.argv[1:2]
  one of the websites where you can get these packages is PyPI.org
 - pip = it is aprogram that generally comes with python, and allows you to install packages in your mack pc's or any cloud softwere and then you can directly access that package 
 
-## Day-2
-- 
+## UnitTest
+- assert = it is used to boldly claim something is true, but if you assert something in python but it is not true like a boolian expression it will be shown as error
+- pytest = it is a third-party program that you can install that will automate your test as long as you write the tests
+- packages = packages are a python modules that ate organised inside of a folder; and file __init__ is just a visual representation to python to treat that folder as a package
+
