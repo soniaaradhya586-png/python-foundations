@@ -26,7 +26,8 @@
 
 
 #if __name__ == "__main__":
-#   main()      
+#   main()    
+import pytest  
 from calculator import square
 
 def test_square():
@@ -40,3 +41,7 @@ def test_negatuve():
 
 def test_zero():
     assert square(0) == 0
+
+def test_str():
+    with pytest.raises(TypeError):
+        square("cat")
