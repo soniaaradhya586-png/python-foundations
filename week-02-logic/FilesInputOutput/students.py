@@ -9,13 +9,20 @@ with open("students.csv") as file:
     for line in file:
         name, house = line.rstrip().split(",")
        # students.append(f"{name} is in {house}")
-        student = {}
-        student["name"] = name
-        student["house"] = house
+        ##student = {}
+        ##student["name"] = name
+        ##student["house"] = house
+        ### same thing as above can be achived just by doing this 
+        student = {"name": name, "house": house}
         students.append(student)
 
 #for students in sorted(students):
 #    print(students)
 
-for student in students:
+
+#def get_name(student):
+#    return student["name"]
+
+
+for student in sorted(students, key= lambda student: student["name"]):
     print(f"{student['name']} is in {student['house']}")
