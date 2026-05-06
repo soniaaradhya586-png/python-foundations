@@ -77,7 +77,7 @@ def get_student():
      return Student(name, house)
 
 if __name__ == "__main__":
-      Student = get_student()
+      student = get_student()
       #print("Expecto Partonum!")
       #print(student.charm())
-      print(Student)
+      print(student)
